@@ -1,0 +1,20 @@
+input{
+    margin:20px 0px;
+    padding:10px;
+}
+.qeydiyyat{
+   
+    background:yellow;
+    width:50%
+}
+.register{
+    background:green;
+    padding:10px 30px;
+    border-radius:50px;
+}
+.register:hover{
+    background:blue;
+}
+.register:active{
+    background:red;
+}

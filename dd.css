@@ -1,0 +1,20 @@
+ul{
+    font-family:Arial,Helvetica,sans-serif;
+    list-style:none;
+    float:right;
+    font-weight:bold;
+    font-size:25px;
+}
+ul li{
+    float:left;
+    padding:15px;
+}
+
+div{
+    height:80px;
+    color:white;
+    width:100%;
+    background:black;
+}
+      
+    
